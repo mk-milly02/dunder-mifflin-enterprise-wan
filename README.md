@@ -4,7 +4,7 @@
 
 Designing an enterprise wide area network (WAN) for Dunder Mifflin using Layer 3 Virtual Private Network (L3VPN) over Multiprotocol Label Switching (MPLS) is a comprehensive task that requires careful planning and consideration of various factors such as security, scalability, performance, and cost. Below is a detailed background and design overview for this network:
 
-Dunder Mifflin is a mid-sized paper supply company with a headquarters (HQ) and four remote branches located in Nashua, Stamford, Scranton and Buffalo. The company needs a robust, secure, and scalable network to support its business operations, including sales, customer service, logistics, and corporate communications. The network will be designed in an intranet topology. This design simplifies management and routing, with all branches being able to communicated with each other as well as the HQ.
+Dunder Mifflin is a mid-sized paper supply company with a headquarters (HQ) and four remote branches located in Nashua, Stamford, Scranton and Buffalo. The company needs a robust, secure, and scalable network to support its business operations, including sales, customer service, logistics, and corporate communications. The network will be designed in an intranet topology. This design simplifies management and routing, with all branches being able to communicate with each other as well as the HQ.
 
 ## Network Topology
 
